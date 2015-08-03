@@ -92,8 +92,8 @@ typedef unsigned long long  __uint64_t;
 #include <libelf/libelf.h>
 #endif
 #endif
-#include <dwarf.h>
-#include <libdwarf.h>
+#include "dwarf.h"
+#include "libdwarf.h"
 #ifdef HAVE_REGEX
 #include <regex.h>
 #endif

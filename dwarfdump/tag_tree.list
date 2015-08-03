@@ -24,7 +24,7 @@
   USA.
 
 */
-#include <dwarf.h>
+#include "dwarf.h"
 
 /*
     list for semantic check of tag-tree.

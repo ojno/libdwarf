@@ -24,7 +24,7 @@
 
 */
 
-#include <dwarf.h>
+#include "dwarf.h"
 #include <stdio.h>
 #include <stdarg.h>   /* For va_start va_arg va_list */
 #include <stdlib.h>/* For exit() declaration etc. */

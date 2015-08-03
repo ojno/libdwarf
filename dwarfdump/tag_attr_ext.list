@@ -25,7 +25,7 @@
   
 */
 
-#include <dwarf.h>
+#include "dwarf.h"
 
 /*  list for semantic check of tag-attr relation.
     See tag_attr.list for details.
